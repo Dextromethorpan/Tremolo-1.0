@@ -1,0 +1,3 @@
+C:/Desktop/Burochracie/CV/Publications_LinkedIn/P4/SmartTremolo/build/CMakeFiles/smart_tremolo.dir
+C:/Desktop/Burochracie/CV/Publications_LinkedIn/P4/SmartTremolo/build/CMakeFiles/ALL_BUILD.dir
+C:/Desktop/Burochracie/CV/Publications_LinkedIn/P4/SmartTremolo/build/CMakeFiles/ZERO_CHECK.dir

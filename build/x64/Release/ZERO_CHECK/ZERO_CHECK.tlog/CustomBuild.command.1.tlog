@@ -1,0 +1,10 @@
+^C:\DESKTOP\BUROCHRACIE\CV\PUBLICATIONS_LINKEDIN\P4\SMARTTREMOLO\BUILD\CMAKEFILES\16F557DEB5FC4946C0F878FA226B7705\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Desktop/Burochracie/CV/Publications_LinkedIn/P4/SmartTremolo -BC:/Desktop/Burochracie/CV/Publications_LinkedIn/P4/SmartTremolo/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Desktop/Burochracie/CV/Publications_LinkedIn/P4/SmartTremolo/build/SmartTremolo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

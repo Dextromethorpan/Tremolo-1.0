@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Desktop\Burochracie\CV\Publications_LinkedIn\P4\SmartTremolo\build\CMakeFiles\16f557deb5fc4946c0f878fa226b7705\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7B8B52F3-3AB8-33EC-A944-6EBD04808622}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
